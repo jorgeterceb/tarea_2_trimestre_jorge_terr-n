@@ -1,0 +1,105 @@
+@font-face {
+    font-family: 'Breaking Bad';
+    src: url(font/Breaking\ Bad.ttf);
+}
+body {
+    text-align: center;
+    background-color: #0c3e11;
+
+#titulo {
+    font-family: 'Breaking Bad';
+    font-size: 35px;
+    color: white;
+}
+.letra {
+    font-family: Helvetica;
+    font-size: 10px;
+}
+.tamaño {
+    font-family: Helvetica;
+    font-size: 14px;
+}
+.poster {
+    border: 10px outset brown;
+    border-radius: 22px;
+    width: 700px;
+    height: 300px;
+}
+.cabecera {
+    text-align: center;
+}
+.logo {
+    width: 200px; 
+    height: 200px;
+}
+
+}
+.fondo {
+    background-image: url(IMG/fondo.jpg);
+    background-size: cover;
+}
+table {
+    margin: auto;
+    border-collapse: collapse;
+    background-color: black;
+    text-align: center;
+    font-family: Helvetica;
+    
+    
+}
+table {
+    border: 8px solid black;
+    border-collapse: collapse;
+    width: 1200px;
+    height: 900px;
+
+}
+td {
+    width: 100px;
+    height: 100px;
+    border: 8px solid black;
+
+}
+#Ha {
+    width: 100%;
+}
+
+.verde1 {
+    background-color: #8FD027;
+}
+.gris {
+    background-color: #8EAD67;
+}
+.gris2 {
+    background-color: #BDCCAB;
+}
+.morado {
+    background-color: mediumpurple;
+}
+.verde2 {
+    background-color: #67A021;
+}
+.verde3 {
+    background-color: #486622;
+}
+.blanco {
+    background-color: whitesmoke;
+}
+.verde4 {
+    background-color: #BEF350;
+}
+.verde5 {
+    background-color: #CDF180;
+}
+
+.tabla2 {
+    background-color: #C3D027;
+    font-family: Helvetica;
+    width: auto;
+    height: auto;
+    
+}
+p {
+    font-size: 30px;
+
+}
